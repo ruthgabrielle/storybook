@@ -2,3 +2,4 @@
 
 ## Steps 
 - `npm init -y or yarn init -y`
+- `npx storybook init`
