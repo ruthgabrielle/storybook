@@ -34,6 +34,7 @@
     "@storybook/theming": "^8.0.9",
     "@types/node": "^18.0.1",
     "@types/react": "^18.0.14",
+    "addon-screen-reader": "^1.8.6",
     "babel-loader": "^8.2.5",
     "typescript": "^4.7.4"
   }
